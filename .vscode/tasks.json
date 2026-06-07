@@ -1,0 +1,21 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "sqlproj: Build DSA 1060 ",
+			"type": "process",
+			"command": "dotnet",
+			"args": [
+				"build",
+				"/home/muturi/Desktop/USIU/DSA_1060/SQL_code/DSA 1060 /DSA 1060 .sqlproj"
+			],
+			"problemMatcher": "$sqlproj-problem-matcher",
+			"isBackground": true,
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"detail": "Builds the DSA 1060  SQL project"
+		}
+	]
+}

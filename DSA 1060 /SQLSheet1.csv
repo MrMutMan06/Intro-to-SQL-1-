@@ -1,0 +1,300 @@
+Age,Attrition,BusinessTravel,DailyRate,Department,DistanceFromHome,Education,EducationField,EmployeeCount,EmployeeNumber,EnvironmentSatisfaction,Gender
+41,Yes,Travel_Rarely,1102,Sales,1,2,Life Sciences,1,1,2,Female
+49,No,Travel_Frequently,279,Research & Development,8,1,Life Sciences,1,2,3,Male
+37,Yes,Travel_Rarely,1373,Research & Development,2,2,Other,1,4,4,Male
+33,No,Travel_Frequently,1392,Research & Development,3,4,Life Sciences,1,5,4,Female
+27,No,Travel_Rarely,591,Research & Development,2,1,Medical,1,7,1,Male
+32,No,Travel_Frequently,1005,Research & Development,2,2,Life Sciences,1,8,4,Male
+59,No,Travel_Rarely,1324,Research & Development,3,3,Medical,1,10,3,Female
+30,No,Travel_Rarely,1358,Research & Development,24,1,Life Sciences,1,11,4,Male
+38,No,Travel_Frequently,216,Research & Development,23,3,Life Sciences,1,12,4,Male
+36,No,Travel_Rarely,1299,Research & Development,27,3,Medical,1,13,3,Male
+35,No,Travel_Rarely,809,Research & Development,16,3,Medical,1,14,1,Male
+29,No,Travel_Rarely,153,Research & Development,15,2,Life Sciences,1,15,4,Female
+31,No,Travel_Rarely,670,Research & Development,26,1,Life Sciences,1,16,1,Male
+34,No,Travel_Rarely,1346,Research & Development,19,2,Medical,1,18,2,Male
+28,Yes,Travel_Rarely,103,Research & Development,24,3,Life Sciences,1,19,3,Male
+29,No,Travel_Rarely,1389,Research & Development,21,4,Life Sciences,1,20,2,Female
+32,No,Travel_Rarely,334,Research & Development,5,2,Life Sciences,1,21,1,Male
+22,No,Non-Travel,1123,Research & Development,16,2,Medical,1,22,4,Male
+53,No,Travel_Rarely,1219,Sales,2,4,Life Sciences,1,23,1,Female
+38,No,Travel_Rarely,371,Research & Development,2,3,Life Sciences,1,24,4,Male
+24,No,Non-Travel,673,Research & Development,11,2,Other,1,26,1,Female
+36,Yes,Travel_Rarely,1218,Sales,9,4,Life Sciences,1,27,3,Male
+34,No,Travel_Rarely,419,Research & Development,7,4,Life Sciences,1,28,1,Female
+21,No,Travel_Rarely,391,Research & Development,15,2,Life Sciences,1,30,3,Male
+34,Yes,Travel_Rarely,699,Research & Development,6,1,Medical,1,31,2,Male
+53,No,Travel_Rarely,1282,Research & Development,5,3,Other,1,32,3,Female
+32,Yes,Travel_Frequently,1125,Research & Development,16,1,Life Sciences,1,33,2,Female
+42,No,Travel_Rarely,691,Sales,8,4,Marketing,1,35,3,Male
+44,No,Travel_Rarely,477,Research & Development,7,4,Medical,1,36,1,Female
+46,No,Travel_Rarely,705,Sales,2,4,Marketing,1,38,2,Female
+33,No,Travel_Rarely,924,Research & Development,2,3,Medical,1,39,3,Male
+44,No,Travel_Rarely,1459,Research & Development,10,4,Other,1,40,4,Male
+30,No,Travel_Rarely,125,Research & Development,9,2,Medical,1,41,4,Male
+39,Yes,Travel_Rarely,895,Sales,5,3,Technical Degree,1,42,4,Male
+24,Yes,Travel_Rarely,813,Research & Development,1,3,Medical,1,45,2,Male
+43,No,Travel_Rarely,1273,Research & Development,2,2,Medical,1,46,4,Female
+50,Yes,Travel_Rarely,869,Sales,3,2,Marketing,1,47,1,Male
+35,No,Travel_Rarely,890,Sales,2,3,Marketing,1,49,4,Female
+36,No,Travel_Rarely,852,Research & Development,5,4,Life Sciences,1,51,2,Female
+33,No,Travel_Frequently,1141,Sales,1,3,Life Sciences,1,52,3,Female
+35,No,Travel_Rarely,464,Research & Development,4,2,Other,1,53,3,Male
+27,No,Travel_Rarely,1240,Research & Development,2,4,Life Sciences,1,54,4,Female
+26,Yes,Travel_Rarely,1357,Research & Development,25,3,Life Sciences,1,55,1,Male
+27,No,Travel_Frequently,994,Sales,8,3,Life Sciences,1,56,4,Male
+30,No,Travel_Frequently,721,Research & Development,1,2,Medical,1,57,3,Female
+41,Y,Travel_Rarely,1360,Research & Development,12,3,Technical Degree,1,58,2,Female
+34,No,Non-Travel,1065,Sales,23,4,Marketing,1,60,2,Male
+37,No,Travel_Rarely,408,Research & Development,19,2,Life Sciences,1,61,2,Male
+46,No,Travel_Frequently,1211,Sales,5,4,Marketing,1,62,1,Male
+35,No,Travel_Rarely,1229,Research & Development,8,1,Life Sciences,1,63,4,Male
+48,Yes,Travel_Rarely,626,Research & Development,1,2,Life Sciences,1,64,1,Male
+28,Y,Travel_Rarely,1434,Research & Development,5,4,Technical Degree,1,65,3,Male
+44,No,Travel_Rarely,1488,Sales,1,5,Marketing,1,68,2,Female
+35,No,Non-Travel,1097,Research & Development,11,2,Medical,1,70,3,Male
+26,No,Travel_Rarely,1443,Sales,23,3,Marketing,1,72,3,Female
+33,No,Travel_Frequently,515,Research & Development,1,2,Life Sciences,1,73,1,Female
+35,No,Travel_Frequently,853,Sales,18,5,Life Sciences,1,74,2,Male
+35,No,Travel_Rarely,1142,Research & Development,23,4,Medical,1,75,3,Female
+31,No,Travel_Rarely,655,Research & Development,7,4,Life Sciences,1,76,4,Male
+37,No,Travel_Rarely,1115,Research & Development,1,4,Life Sciences,1,77,1,Male
+32,No,Travel_Rarely,427,Research & Development,1,3,Medical,1,78,1,Male
+38,No,Travel_Frequently,653,Research & Development,29,5,Life Sciences,1,79,4,Female
+50,No,Travel_Rarely,989,Research & Development,7,2,Medical,1,80,2,Female
+59,No,Travel_Rarely,1435,Sales,25,3,Life Sciences,1,81,1,Female
+36,No,Travel_Rarely,1223,Research & Development,8,3,Technical Degree,1,83,3,Female
+55,no,Travel_Rarely,836,Research & Development,8,3,Medical,1,84,4,Female
+36,No,Travel_Frequently,1195,Research & Development,11,3,Life Sciences,1,85,2,Male
+45,No,Travel_Rarely,1339,Research & Development,7,3,Life Sciences,1,86,2,Male
+35,No,Travel_Frequently,664,Research & Development,1,3,Medical,1,88,2,Male
+36,Yes,Travel_Rarely,318,Research & Development,9,3,Medical,1,90,4,Male
+59,No,Travel_Frequently,1225,Sales,1,1,Life Sciences,1,91,1,Female
+29,No,Travel_Rarely,1328,Research & Development,2,3,Life Sciences,1,94,3,Male
+31,No,Travel_Rarely,1082,Research & Development,1,4,Medical,1,95,3,Male
+32,No,Travel_Rarely,548,Research & Development,1,3,Life Sciences,1,96,2,Male
+36,No,Travel_Rarely,132,Research & Development,6,3,Life Sciences,1,97,2,Female
+31,No,Travel_Rarely,746,Research & Development,8,4,Life Sciences,1,98,3,Female
+35,No,Travel_Rarely,776,Sales,1,4,Marketing,1,100,3,Male
+45,N,Travel_Rarely,193,Research & Development,6,4,Other,1,101,4,Male
+37,No,Travel_Rarely,397,Research & Development,7,4,Medical,1,102,1,Male
+46,No,Travel_Rarely,945,Human Resources,5,2,Medical,1,103,2,Male
+30,No,Travel_Rarely,852,Research & Development,1,1,Life Sciences,1,104,4,Male
+35,No,Travel_Rarely,1214,Research & Development,1,3,Medical,1,105,2,Male
+55,No,Travel_Rarely,111,Sales,1,2,Life Sciences,1,106,1,Male
+38,No,Non-Travel,573,Research & Development,6,3,Medical,1,107,2,Female
+34,No,Travel_Rarely,1153,Research & Development,1,2,Medical,1,110,1,Male
+56,No,Travel_Rarely,1400,Research & Development,7,3,Life Sciences,1,112,4,Male
+23,No,Travel_Rarely,541,Sales,2,1,Technical Degree,1,113,3,Male
+51,No,Travel_Rarely,432,Research & Development,9,4,Life Sciences,1,116,4,Male
+30,No,Travel_Rarely,288,Research & Development,2,3,Life Sciences,1,117,3,Male
+46,Yes,Travel_Rarely,669,Sales,9,2,Medical,1,118,3,Male
+40,No,Travel_Frequently,530,Research & Development,1,4,Life Sciences,1,119,3,Male
+51,No,Travel_Rarely,632,Sales,21,4,Marketing,1,120,3,Male
+30,No,Travel_Rarely,1334,Sales,4,2,Medical,1,121,3,Female
+46,No,Travel_Frequently,638,Research & Development,1,3,Medical,1,124,3,Male
+32,No,Travel_Rarely,1093,Sales,6,4,Medical,1,125,2,Male
+54,No,Travel_Rarely,1217,Research & Development,2,4,Technical Degree,1,126,1,Female
+24,No,Travel_Rarely,1353,Sales,3,2,Other,1,128,1,Female
+28,No,Non-Travel,120,Sales,4,3,Medical,1,129,2,Male
+58,No,Travel_Rarely,682,Sales,10,4,Medical,1,131,4,Male
+44,No,Non-Travel,489,Research & Development,23,3,Medical,1,132,2,Male
+37,Yes,Travel_Rarely,807,Human Resources,6,4,Human Resources,1,133,3,Male
+32,No,Travel_Rarely,827,Research & Development,1,1,Life Sciences,1,134,4,Male
+20,yes,Travel_Frequently,871,Research & Development,6,3,Life Sciences,1,137,4,Female
+34,No,Travel_Rarely,665,Research & Development,6,4,Other,1,138,1,Female
+37,No,Non-Travel,1040,Research & Development,2,2,Life Sciences,1,139,3,Male
+59,No,Non-Travel,1420,Human Resources,2,4,Human Resources,1,140,3,Female
+50,No,Travel_Frequently,1115,Research & Development,1,3,Life Sciences,1,141,1,Female
+25,Yes,Travel_Rarely,240,Sales,5,3,Marketing,1,142,3,Male
+25,No,Travel_Rarely,1280,Research & Development,7,1,Medical,1,143,4,Male
+22,No,Travel_Rarely,534,Research & Development,15,3,Medical,1,144,2,Female
+51,No,Travel_Frequently,1456,Research & Development,1,4,Medical,1,145,1,Female
+34,Yes,Travel_Frequently,658,Research & Development,7,3,Life Sciences,1,147,1,Male
+54,No,Non-Travel,142,Human Resources,26,3,Human Resources,1,148,4,Female
+24,No,Travel_Rarely,1127,Research & Development,18,1,Life Sciences,1,150,2,Male
+34,No,Travel_Rarely,1031,Research & Development,6,4,Life Sciences,1,151,3,Female
+37,No,Travel_Rarely,1189,Sales,3,3,Life Sciences,1,152,3,Male
+34,No,Travel_Rarely,1354,Research & Development,5,3,Medical,1,153,3,Female
+36,No,Travel_Frequently,1467,Sales,11,2,Technical Degree,1,154,2,Female
+36,No,Travel_Rarely,922,Research & Development,3,2,Life Sciences,1,155,1,Female
+43,No,Travel_Frequently,394,Sales,26,2,Life Sciences,1,158,3,Male
+30,No,Travel_Frequently,1312,Research & Development,23,3,Life Sciences,1,159,1,Male
+33,No,Non-Travel,750,Sales,22,2,Marketing,1,160,3,Male
+56,Yes,Travel_Rarely,441,Research & Development,14,4,Life Sciences,1,161,2,Female
+51,No,Travel_Rarely,684,Research & Development,6,3,Life Sciences,1,162,1,Male
+31,Yes,Travel_Rarely,249,Sales,6,4,Life Sciences,1,163,2,Male
+26,No,Travel_Rarely,841,Research & Development,6,3,Other,1,164,3,Female
+58,Yes,Travel_Rarely,147,Research & Development,23,4,Medical,1,165,4,Female
+19,Yes,Travel_Rarely,528,Sales,22,1,Marketing,1,167,4,Male
+22,No,Travel_Rarely,594,Research & Development,2,1,Technical Degree,1,169,3,Male
+49,No,Travel_Rarely,470,Research & Development,20,4,Medical,1,170,3,Female
+43,No,Travel_Frequently,957,Research & Development,28,3,Medical,1,171,2,Female
+50,No,Travel_Frequently,809,Sales,12,3,Marketing,1,174,3,Female
+31,Yes,Travel_Rarely,542,Sales,20,3,Life Sciences,1,175,2,Female
+41,No,Travel_Rarely,802,Sales,9,1,Life Sciences,1,176,3,Male
+26,No,Travel_Rarely,1355,Human Resources,25,1,Life Sciences,1,177,3,Female
+36,No,Travel_Rarely,216,Research & Development,6,2,Medical,1,178,2,Male
+51,Yes,Travel_Frequently,1150,Research & Development,8,4,Life Sciences,1,179,1,Male
+39,No,Travel_Rarely,1329,Sales,4,4,Life Sciences,1,182,4,Female
+25,No,Travel_Rarely,959,Sales,28,3,Life Sciences,1,183,1,Male
+30,No,Travel_Rarely,1240,Human Resources,9,3,Human Resources,1,184,3,Male
+32,Yes,Travel_Rarely,1033,Research & Development,9,3,Medical,1,190,1,Female
+45,No,Travel_Rarely,1316,Research & Development,29,3,Medical,1,192,3,Male
+38,No,Travel_Rarely,364,Research & Development,3,5,Technical Degree,1,193,4,Female
+30,No,Travel_Rarely,438,Research & Development,18,3,Life Sciences,1,194,1,Female
+32,No,Travel_Frequently,689,Sales,9,2,Medical,1,195,4,Male
+30,No,Travel_Rarely,201,Research & Development,5,3,Technical Degree,1,197,4,Female
+30,No,Travel_Rarely,1427,Research & Development,2,1,Medical,1,198,2,Male
+41,No,Travel_Frequently,857,Research & Development,10,3,Life Sciences,1,199,4,Male
+41,No,Travel_Rarely,933,Research & Development,9,4,Life Sciences,1,200,3,Male
+19,No,Travel_Rarely,1181,Research & Development,3,1,Medical,1,201,2,Female
+40,No,Travel_Frequently,1395,Research & Development,26,3,Medical,1,202,2,Female
+35,No,Travel_Rarely,662,Sales,1,5,Marketing,1,204,3,Male
+53,No,Travel_Rarely,1436,Sales,6,2,Marketing,1,205,2,Male
+45,No,Travel_Rarely,194,Research & Development,9,3,Life Sciences,1,206,2,Male
+32,No,Travel_Frequently,967,Sales,8,3,Marketing,1,207,2,Female
+,No,Non-Travel,1496,Research & Development,1,1,Technical Degree,1,208,4,Male
+51,No,Travel_Rarely,1169,Research & Development,7,4,Medical,1,211,2,Male
+58,No,Travel_Rarely,1145,Research & Development,9,3,Medical,1,214,2,Female
+40,No,Travel_Rarely,630,Sales,4,4,Marketing,1,215,3,Male
+34,No,Travel_Frequently,303,Sales,2,4,Marketing,1,216,3,Female
+22,No,Travel_Rarely,1256,Research & Development,19,1,Medical,1,217,3,Male
+27,No,Non-Travel,691,Research & Development,9,3,Medical,1,218,4,Male
+28,No,Travel_Rarely,440,Research & Development,21,3,Medical,1,221,3,Male
+57,No,Travel_Rarely,334,Research & Development,24,2,Life Sciences,1,223,3,Male
+27,No,Non-Travel,1450,Research & Development,3,3,Medical,1,224,3,Male
+50,No,Travel_Rarely,1452,Research & Development,11,3,Life Sciences,1,226,3,Female
+41,No,Travel_Rarely,465,Research & Development,14,3,Life Sciences,1,227,1,Male
+30,No,Travel_Rarely,1339,Sales,5,3,Life Sciences,1,228,2,Female
+38,No,Travel_Rarely,702,Sales,1,4,Life Sciences,1,230,1,Female
+32,No,Travel_Rarely,120,Research & Development,6,5,Life Sciences,1,231,3,Male
+27,No,Travel_Rarely,1157,Research & Development,17,3,Technical Degree,1,233,3,Male
+19,Yes,Travel_Frequently,602,Sales,1,1,Technical Degree,1,235,3,Female
+36,No,Travel_Frequently,1480,Research & Development,3,2,Medical,1,238,4,Male
+30,No,Non-Travel,111,Research & Development,9,3,Medical,1,239,3,Male
+45,No,Travel_Rarely,1268,Sales,4,2,Life Sciences,1,240,3,Female
+56,No,Travel_Rarely,713,Research & Development,8,3,Life Sciences,1,241,3,Female
+33,No,Travel_Rarely,134,Research & Development,2,3,Life Sciences,1,242,3,Male
+19,Yes,Travel_Rarely,303,Research & Development,2,3,Life Sciences,1,243,2,Male
+46,No,Travel_Rarely,526,Sales,1,2,Marketing,1,244,2,Female
+38,No,Travel_Rarely,1380,Research & Development,9,2,Life Sciences,1,245,3,Female
+31,No,Travel_Rarely,140,Research & Development,12,1,Medical,1,246,3,Female
+34,No,Travel_Rarely,629,Research & Development,27,2,Medical,1,247,4,Female
+41,Yes,Travel_Rarely,1356,Sales,20,2,Marketing,1,248,2,Female
+50,No,Travel_Rarely,328,Research & Development,1,3,Medical,1,249,3,Male
+53,No,Travel_Rarely,1084,Research & Development,13,2,Medical,1,250,4,Female
+33,No,Travel_Rarely,931,Research & Development,14,3,Medical,1,252,4,Female
+40,No,Travel_Rarely,989,Research & Development,4,1,Medical,1,253,4,Female
+55,No,Travel_Rarely,692,Research & Development,14,4,Medical,1,254,3,Male
+34,No,Travel_Frequently,1069,Research & Development,2,1,Life Sciences,1,256,4,Male
+51,No,Travel_Rarely,313,Research & Development,3,3,Medical,1,258,4,Female
+52,No,Travel_Rarely,699,Research & Development,1,4,Life Sciences,1,259,3,Male
+27,No,Travel_Rarely,894,Research & Development,9,3,Medical,1,260,4,Female
+35,Yes,Travel_Rarely,556,Research & Development,23,2,Life Sciences,1,261,2,Male
+43,No,Non-Travel,1344,Research & Development,7,3,Medical,1,262,4,Male
+45,No,Non-Travel,1195,Research & Development,2,2,Medical,1,264,1,Male
+37,No,Travel_Rarely,290,Research & Development,21,3,Life Sciences,1,267,2,Male
+35,No,Travel_Frequently,138,Research & Development,2,3,Medical,1,269,2,Female
+42,No,Non-Travel,926,Research & Development,21,2,Medical,1,270,3,Female
+38,No,Travel_Rarely,1261,Research & Development,2,4,Life Sciences,1,271,4,Male
+38,No,Travel_Rarely,1084,Research & Development,29,3,Technical Degree,1,273,4,Male
+27,No,Travel_Frequently,472,Research & Development,1,1,Technical Degree,1,274,3,Male
+49,No,Non-Travel,1002,Research & Development,18,4,Life Sciences,1,275,4,Male
+34,No,Travel_Frequently,878,Research & Development,10,4,Medical,1,277,4,Male
+40,No,Travel_Rarely,905,Research & Development,19,2,Medical,1,281,3,Male
+38,Yes,Travel_Rarely,1180,Research & Development,29,1,Medical,1,282,2,Male
+29,Yes,Travel_Rarely,121,Sales,27,3,Marketing,1,283,2,Female
+22,No,Travel_Rarely,1136,Research & Development,5,3,Life Sciences,1,284,4,Male
+36,No,Travel_Frequently,635,Research & Development,18,1,Medical,1,286,2,Female
+40,No,Non-Travel,1151,Research & Development,9,5,Life Sciences,1,287,4,Male
+46,No,Travel_Rarely,644,Research & Development,1,4,Medical,1,288,4,Male
+32,Yes,Travel_Rarely,1045,Sales,4,4,Medical,1,291,4,Male
+30,No,Non-Travel,829,Research & Development,1,1,Life Sciences,1,292,3,Male
+27,No,Travel_Frequently,1242,Sales,20,3,Life Sciences,1,293,4,Female
+51,No,Travel_Rarely,1469,Research & Development,8,4,Life Sciences,1,296,2,Male
+30,Yes,Travel_Rarely,1005,Research & Development,3,3,Technical Degree,1,297,4,Female
+41,No,Travel_Rarely,896,Sales,6,3,Life Sciences,1,298,4,Female
+30,Yes,Travel_Frequently,334,Sales,26,4,Marketing,1,299,3,Female
+29,Yes,Travel_Rarely,992,Research & Development,1,3,Technical Degree,1,300,3,Male
+45,No,Non-Travel,1052,Sales,6,3,Medical,1,302,4,Female
+54,No,Travel_Rarely,1147,Sales,3,3,Marketing,1,303,4,Female
+36,No,Travel_Rarely,1396,Research & Development,5,2,Life Sciences,1,304,4,Male
+33,No,Travel_Rarely,147,Research & Development,4,4,Medical,1,305,3,Female
+37,No,Travel_Frequently,663,Research & Development,11,3,Other,1,306,2,Male
+38,No,Travel_Rarely,119,Sales,3,3,Life Sciences,1,307,1,Male
+31,No,Non-Travel,979,Research & Development,1,4,Medical,1,308,3,Male
+59,No,Travel_Rarely,142,Research & Development,3,3,Life Sciences,1,309,3,Male
+37,No,Travel_Frequently,319,Sales,4,4,Marketing,1,311,1,Male
+29,No,Travel_Frequently,1413,Sales,1,1,Medical,1,312,2,Female
+35,No,Travel_Frequently,944,Sales,1,3,Marketing,1,314,3,Female
+29,Yes,Travel_Rarely,896,Research & Development,18,1,Medical,1,315,3,Male
+52,No,Travel_Rarely,1323,Research & Development,2,3,Life Sciences,1,316,3,Female
+42,No,Travel_Rarely,532,Research & Development,4,2,Technical Degree,1,319,3,Male
+59,No,Travel_Rarely,818,Human Resources,6,2,Medical,1,321,2,Male
+50,No,Travel_Rarely,854,Sales,1,4,Medical,1,323,4,Female
+33,Yes,Travel_Rarely,813,Research & Development,14,3,Medical,1,325,3,Male
+43,No,Travel_Rarely,1034,Sales,16,3,Marketing,1,327,4,Female
+33,Yes,Travel_Rarely,465,Research & Development,2,2,Life Sciences,1,328,1,Female
+52,No,Non-Travel,771,Sales,2,4,Life Sciences,1,329,1,Male
+32,No,Travel_Rarely,1401,Sales,4,2,Life Sciences,1,330,3,Female
+32,Yes,Travel_Rarely,515,Research & Development,1,3,Life Sciences,1,331,4,Male
+39,No,Travel_Rarely,1431,Research & Development,1,4,Medical,1,332,3,Female
+32,No,Non-Travel,976,Sales,26,4,Marketing,1,333,3,Male
+41,No,Travel_Rarely,1411,Research & Development,19,2,Life Sciences,1,334,3,Male
+40,No,Travel_Rarely,1300,Research & Development,24,2,Technical Degree,1,335,1,Male
+45,No,Travel_Rarely,252,Research & Development,1,3,Other,1,336,3,Male
+31,No,Travel_Frequently,1327,Research & Development,3,4,Medical,1,337,2,Male
+33,No,Travel_Rarely,832,Research & Development,5,4,Life Sciences,1,338,3,Female
+34,No,Travel_Rarely,470,Research & Development,2,4,Life Sciences,1,339,4,Male
+37,No,Travel_Rarely,1017,Research & Development,1,2,Medical,1,340,3,Female
+45,No,Travel_Frequently,1199,Research & Development,7,4,Life Sciences,1,341,1,Male
+37,Yes,Travel_Frequently,504,Research & Development,10,3,Medical,1,342,1,Male
+39,No,Travel_Frequently,505,Research & Development,2,4,Technical Degree,1,343,3,Female
+29,No,Travel_Rarely,665,Research & Development,15,3,Life Sciences,1,346,3,Male
+42,No,Travel_Rarely,916,Research & Development,17,2,Life Sciences,1,347,4,Female
+29,No,Travel_Rarely,1247,Sales,20,2,Marketing,1,349,4,Male
+25,No,Travel_Rarely,685,Research & Development,1,3,Life Sciences,1,350,1,Female
+42,No,Travel_Rarely,269,Research & Development,2,3,Medical,1,351,4,Female
+40,No,Travel_Rarely,1416,Research & Development,2,2,Medical,1,352,1,Male
+51,No,Travel_Rarely,833,Research & Development,1,3,Life Sciences,1,353,3,Male
+31,Yes,Travel_Frequently,307,Research & Development,29,2,Medical,1,355,3,Male
+32,No,Travel_Frequently,1311,Research & Development,7,3,Life Sciences,1,359,2,Male
+38,No,Non-Travel,1327,Sales,2,2,Life Sciences,1,361,4,Male
+32,No,Travel_Rarely,128,Research & Development,2,1,Technical Degree,1,362,4,Male
+46,No,Travel_Rarely,488,Sales,2,3,Technical Degree,1,363,3,Female
+28,Yes,Travel_Rarely,529,Research & Development,2,4,Life Sciences,1,364,1,Male
+29,No,Travel_Rarely,1210,Sales,2,3,Medical,1,366,1,Male
+31,No,Travel_Rarely,1463,Research & Development,23,3,Medical,1,367,2,Male
+25,No,Non-Travel,675,Research & Development,5,2,Life Sciences,1,369,2,Male
+45,No,Travel_Rarely,1385,Research & Development,20,2,Medical,1,372,3,Male
+36,No,Travel_Rarely,1403,Research & Development,6,3,Life Sciences,1,373,4,Male
+55,No,Travel_Rarely,452,Research & Development,1,3,Medical,1,374,4,Male
+47,Yes,Non-Travel,666,Research & Development,29,4,Life Sciences,1,376,1,Male
+28,No,Travel_Rarely,1158,Research & Development,9,3,Medical,1,377,4,Male
+37,No,Travel_Rarely,228,Sales,6,4,Medical,1,378,3,Male
+21,No,Travel_Rarely,996,Research & Development,3,2,Medical,1,379,4,Male
+37,No,Non-Travel,728,Research & Development,1,4,Medical,1,380,1,Female
+35,No,Travel_Rarely,1315,Research & Development,22,3,Life Sciences,1,381,2,Female
+38,No,Travel_Rarely,322,Sales,7,2,Medical,1,382,1,Female
+26,No,Travel_Frequently,1479,Research & Development,1,3,Life Sciences,1,384,3,Female
+50,No,Travel_Rarely,797,Research & Development,4,1,Life Sciences,1,385,1,Male
+53,No,Travel_Rarely,1070,Research & Development,3,4,Medical,1,386,3,Male
+42,No,Travel_Rarely,635,Sales,1,1,Life Sciences,1,387,2,Male
+29,No,Travel_Frequently,442,Sales,2,2,Life Sciences,1,388,2,Male
+55,No,Travel_Rarely,147,Research & Development,20,2,Technical Degree,1,389,2,Male
+26,No,Travel_Frequently,496,Research & Development,11,2,Medical,1,390,1,Male
+37,No,Travel_Rarely,1372,Research & Development,1,3,Life Sciences,1,391,4,Female
+44,Yes,Travel_Frequently,920,Research & Development,24,3,Life Sciences,1,392,4,Male
+38,No,Travel_Rarely,688,Research & Development,23,4,Life Sciences,1,393,4,Male
+26,Yes,Travel_Rarely,1449,Research & Development,16,4,Medical,1,394,1,Male
+28,No,Travel_Rarely,1117,Research & Development,8,2,Life Sciences,1,395,4,Female
+49,No,Travel_Frequently,636,Research & Development,10,4,Life Sciences,1,396,3,Female
+36,No,Travel_Rarely,506,Research & Development,3,3,Technical Degree,1,397,3,Male
+31,No,Travel_Frequently,444,Sales,5,3,Marketing,1,399,4,Female
+26,Yes,Travel_Rarely,950,Sales,4,4,Marketing,1,401,4,Male
+37,No,Travel_Frequently,889,Research & Development,9,3,Medical,1,403,2,Male
+42,No,Travel_Frequently,555,Sales,26,3,Marketing,1,404,3,Female
+18,Yes,Travel_Rarely,230,Research & Development,3,3,Life Sciences,1,405,3,Male
+35,No,Travel_Rarely,1232,Sales,16,3,Marketing,1,406,3,Male
+36,No,Travel_Frequently,566,Research & Development,18,4,Life Sciences,1,407,3,Male
